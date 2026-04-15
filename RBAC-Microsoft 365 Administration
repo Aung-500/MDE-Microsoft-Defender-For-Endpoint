@@ -1,0 +1,9 @@
+Microsoft Entra RBAC documentation
+https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/
+
+Microsoft Entra role-based access control (RBAC) manages access to Microsoft Entra resources. Assign roles to grant access, 
+use groups to manage role assignments, create administrative units to restrict scope, or create custom roles with specific permissions.
+
+Microsoft 365 Admin Center
+Central administration hub for Microsoft 365 services and role-based access control.
+Roles Details > > https://rbacmap.com/
